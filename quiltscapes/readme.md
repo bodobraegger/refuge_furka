@@ -25,8 +25,10 @@ loop of lausanne hospital package routing, loading up at the current moment in
 the video based on the current datetime.
 - https://axellestiefel.network
 ### Vitali's CCTV projects:
+- instagram: @cickindunt @amin_amjnn
 - https://spiedlife.com redirects to https://www.skylinewebcams.com/
 - https://www.ruptly.tv/en russian state owned news / video on demand
+- https://virtualrailfan.com
 - always include the computer interface used to stream, computer / phone
 - _CHANGE_, a reflection of our cultural happenings, videos of a flag,
   implied death in kabul overlaid and interleaved with other 'fun' and upbeat
